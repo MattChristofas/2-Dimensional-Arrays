@@ -5,8 +5,6 @@
 /*
 Matthew Christofas
 February 23, 2023
-Computer Systems & LL Programming
-Lab 05 Processing 2D arrays
 Mission: To design and implement functions to process 2DArrays. 
 */
 
